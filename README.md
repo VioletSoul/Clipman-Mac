@@ -8,8 +8,6 @@
 [![Stars](https://img.shields.io/github/stars/VioletSoul/Clipman-Mac.svg?style=social)](https://github.com/VioletSoul/Clipman-Mac)
 [![Last Commit](https://img.shields.io/github/last-commit/VioletSoul/Clipman-Mac.svg)](https://github.com/VioletSoul/Clipman-Mac/commits/main)
 
----
-
 ## 📚 Description
 
 **User-friendly, terminal-based clipboard manager for macOS.**
