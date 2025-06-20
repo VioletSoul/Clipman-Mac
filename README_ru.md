@@ -1,3 +1,5 @@
+# Clipman-Mac
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-✓-black)
 ![Clipboard](https://img.shields.io/badge/Clipboard-✓-purple)
@@ -6,9 +8,11 @@
 [![Stars](https://img.shields.io/github/stars/VioletSoul/Clipman-Mac.svg?style=social)](https://github.com/VioletSoul/Clipman-Mac)
 [![Last Commit](https://img.shields.io/github/last-commit/VioletSoul/Clipman-Mac.svg)](https://github.com/VioletSoul/Clipman-Mac/commits/main)
 
-# Clipman-Mac
+---
 
-User-friendly, терминальный менеджер буфера обмена для macOS.
+## 📚 Description
+
+**Дружественный, терминальный менеджер буфера обмена для macOS.**
 
 ---
 
