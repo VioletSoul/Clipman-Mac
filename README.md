@@ -1,84 +1,84 @@
+# Clipman-Mac
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-✓-black)
 ![Clipboard](https://img.shields.io/badge/Clipboard-✓-purple)
 ![fzf](https://img.shields.io/badge/fzf-✓-green)
 ![Homebrew](https://img.shields.io/badge/Homebrew-✓-orange)
-
-# Clipman-Mac
-
-User-friendly, терминальный менеджер буфера обмена для macOS.
+[![Stars](https://img.shields.io/github/stars/VioletSoul/Clipman-Mac.svg?style=social)](https://github.com/VioletSoul/Clipman-Mac)
+[![Last Commit](https://img.shields.io/github/last-commit/VioletSoul/Clipman-Mac.svg)](https://github.com/VioletSoul/Clipman-Mac/commits/main)
 
 ---
 
-## Зачем нужен Clipman-Mac?
+## 📚 Description
 
-В macOS нет штатного, удобного для терминала менеджера буфера обмена.  
-Clipman-Mac решает эту задачу: это лёгкое, быстрое и простое решение, идеально интегрируемое в ваш терминальный рабочий процесс.
+**User-friendly, terminal-based clipboard manager for macOS.**
 
----
+## Why Use Clipman-Mac?
 
-## Возможности
+macOS lacks a built-in, terminal-friendly clipboard manager.
 
-- Работа из терминала: полностью управляется из командной строки.
-- История буфера обмена: хранит несколько последних копирований.
-- Быстрый поиск: выбирайте нужную запись с помощью fzf.
-- Минимализм: использует только стандартные утилиты macOS (pbcopy/pbpaste).
-- Простая установка: всё работает после пары команд.
+Clipman-Mac solves this problem: it is a lightweight, fast, and simple solution that integrates seamlessly into your terminal workflow.
 
----
+## Features
 
-## Установка
+- **Terminal-based:** Fully controlled from the command line.
+- **Clipboard history:** Keeps track of your most recent copy operations.
+- **Fast search:** Select entries using the fuzzy finder `fzf`.
+- **Minimalist:** Uses only standard macOS utilities (`pbcopy`/`pbpaste`).
+- **Easy setup:** Ready to use after a few commands.
 
-1. Установите Homebrew (если ещё не установлен):
+## Installation
 
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+1. **Install Homebrew (if not already installed):**
+    ```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
 
-2. Установите зависимости:
+2. **Install dependencies:**
+    ```
+    brew install fzf
+    ```
 
-   brew install fzf
+3. **Clone the repository:**
+    ```
+    git clone https://github.com/VioletSoul/Clipman-Mac.git
+    cd Clipman-Mac
+    ```
 
-3. Скачайте скрипт:
-```
-   git clone https://github.com/yourusername/clipman-mac.git
-   cd clipman-mac
-```
-4. Сделайте скрипт исполняемым (если нужно):
-```
-   chmod +x clipman.sh
-```
-5. Запустите скрипт:
-```
-   ./clipman.sh
-```
----
+4. **Make the script executable (if needed):**
+    ```
+    chmod +x clipman.sh
+    ```
 
-## Использование
+5. **Run the script:**
+    ```
+    ./clipman.sh
+    ```
 
-- Запускайте скрипт в терминале.
-- Используйте поиск по истории буфера обмена через fzf.
-- Выбранный элемент автоматически будет скопирован обратно в буфер обмена или выведен в терминал.
+## Usage
 
----
+- **Run the script in your terminal.**
+- **Search your clipboard history using `fzf`.**
+- **The selected item will be automatically copied back to your clipboard or printed to the terminal.**
 
-## Зависимости
+## Dependencies
 
-- macOS
-- Homebrew (для быстрой установки)
-- fzf (fuzzy finder)
-- pbcopy, pbpaste (стандартные утилиты macOS)
+- **macOS**
+- **Homebrew** (for easy installation)
+- **fzf** (fuzzy finder)
+- **pbcopy, pbpaste** (standard macOS utilities)
 
----
-
-## Лицензия
+## License
 
 MIT License
 
+## Contact
+
+Questions and suggestions:
+- **GitHub Issues:** [Open an issue](https://github.com/VioletSoul/Clipman-Mac/issues)
+- **Or contact the author directly.**
+
 ---
 
-## Контакты
-
-Вопросы и предложения — через Issues в репозитории или напрямую автору.
-
----
-
-Пусть ваш буфер обмена всегда будет под рукой прямо в терминале!
+Keep your clipboard at your fingertips, right in the terminal!
