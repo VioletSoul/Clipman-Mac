@@ -5,6 +5,8 @@
 ![Clipboard](https://img.shields.io/badge/Clipboard-✓-purple)
 ![fzf](https://img.shields.io/badge/fzf-✓-green)
 ![Homebrew](https://img.shields.io/badge/Homebrew-✓-orange)
+![Repo Size](https://img.shields.io/github/repo-size/VioletSoul/Clipman-Mac)
+![Code Size](https://img.shields.io/github/languages/code-size/VioletSoul/Clipman-Mac)
 [![Stars](https://img.shields.io/github/stars/VioletSoul/Clipman-Mac.svg?style=social)](https://github.com/VioletSoul/Clipman-Mac)
 [![Last Commit](https://img.shields.io/github/last-commit/VioletSoul/Clipman-Mac.svg)](https://github.com/VioletSoul/Clipman-Mac/commits/main)
 
